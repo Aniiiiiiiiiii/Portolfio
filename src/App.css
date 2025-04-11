@@ -1,0 +1,208 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  overflow-x: hidden;
+}
+
+
+
+@font-face {
+  font-family: Nunito;
+  src: url('/fonts/Nunito/static/Nunito-Regular.ttf');
+}
+@font-face {
+  font-family: Nunito-bold;
+  src: url('/fonts/Nunito/static/Nunito-Bold.ttf');
+}
+@font-face {
+  font-family: Nunito-black;
+  src: url('/fonts/Nunito/static/Nunito-Black.ttf');
+}
+@font-face {
+  font-family: Nunito-exlight;
+  src: url('/fonts/Nunito/static/Nunito-ExtraLight.ttf');
+}
+@font-face {
+  font-family: Rubik;
+  src: url('/fonts/Rubik/RubikDoodleShadow-Regular.ttf');
+}
+@font-face {
+  font-family: Silk;
+  src: url('/fonts/Silkscreen/Silkscreen-Regular.ttf');
+}
+
+
+
+
+body{
+  font-family: Nunito;
+}
+
+.nunito{
+  font-family: Nunito;
+}
+.nunito-bold{
+  font-family: Nunito-bold;
+}
+.nunito-black{
+  font-family: Nunito-black;
+}
+.nunito-exlight{
+  font-family: Nunito-exlight;
+}
+.rubik{
+  font-family: Rubik;
+}
+.silk{
+  font-family: Silk;
+}
+
+.w-fit{
+  width: fit-content;
+}
+.text-justify{
+  text-align: justify;
+}
+
+.bg-dark{
+  background-color: #000 !important;
+}
+.btn-dark{
+  background-color: #000 !important;
+
+}
+.sec-head{
+  font-size: 3.5rem;
+}
+
+
+
+
+.top{
+  position: fixed;
+  bottom: 10%;
+  right: 5%;
+  background-color: #000;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 4px 6px #00000066;
+  border: 1px solid #fff;
+  /* mix-blend-mode: difference; */
+}
+.top i{
+  color: #fff;
+  /* mix-blend-mode: difference; */
+}
+
+
+/* -----Hero----- */
+.hero .card{
+  border: none;
+}
+.hero .card h2{
+  font-size: 3.5rem;
+}
+.social .box{
+  width: 55px;
+  height: 55px;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #000;
+  border: 2px solid #000;
+  font-size: 20px;
+  margin-right: 1rem;
+}
+.social .box:hover{
+  background-color: #000000;
+  color: #ffffff;
+}
+
+
+
+
+/* Skill */
+.flex-col{
+  flex-direction: column;
+}
+.skill-box{
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  border: 2px solid #000;
+  font-size: 1.5rem;
+  text-align: center;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+}
+.skill-box:hover{
+  background-color: #000;
+  color: #fff;
+  box-shadow: 0 0px 8px 4px #00000082; 
+  transform: translateY(-0.5rem);
+}
+
+
+
+/* Experience */
+.exp-box{
+  border: 2px solid #fff;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+.exp-box:hover{
+  box-shadow: 0 10px 20px #ffffff84; 
+    transform: translateY(-5px); 
+}
+
+
+
+/* Project */
+.proj-img{
+  border-radius: 20px;
+  object-fit: cover;
+}
+.proj-sec a i{
+  transition: 0.3s ease-in-out;
+}
+.proj-sec a i:hover{
+  scale: 1.5;
+}
+.proj-sec h2{
+  font-size: 3rem;
+}
+
+
+/* Contact */
+input{
+  height: 3rem;
+  background-color: #fff !important;
+  color: #000 !important;
+  border: 2px solid #000;
+  border-radius: 5px;
+}
+
+textarea{
+  background-color: #fff !important;
+  color: #000 !important;
+  border: 2px solid #000;
+  border-radius: 5px;
+}
+.con-btn{
+  background-color: #000 !important;
+  color: #fff !important;
+  font-weight: 600;
+
+}
+.con-text a{
+  background-color: #000;
+  padding: 1rem;
+  border-radius: 5px;
+
+}
+.con-text a i{
+  color: #fff;
+}
