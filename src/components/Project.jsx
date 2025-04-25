@@ -16,7 +16,7 @@ export default function Project(){
                             <h6 className="text-white text-justify nunito-exlight mb-4">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum hic numquam ipsam totam, saepe odio sapiente recusandae aut, atque explicabo accusantium quaerat? Animi quo dignissimos dolorem soluta tenetur quos qui rem perferendis id, consequatur, saepe mollitia deleniti? Obcaecati ullam perferendis accusantium soluta illo voluptatibus ipsa perspiciatis, animi cumque placeat nisi?
                             </h6>
-                            <a href="" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
+                            <a href="https://www.dalmiawealth.in/" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
                             </a>
                         </div>
                     </div>
@@ -29,7 +29,7 @@ export default function Project(){
                             <h6 className="text-white text-justify nunito-exlight mb-4">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum hic numquam ipsam totam, saepe odio sapiente recusandae aut, atque explicabo accusantium quaerat? Animi quo dignissimos dolorem soluta tenetur quos qui rem perferendis id, consequatur, saepe mollitia deleniti? Obcaecati ullam perferendis accusantium soluta illo voluptatibus ipsa perspiciatis, animi cumque placeat nisi?
                             </h6>
-                            <a href="" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
+                            <a href="https://afrikaeconomicsummit.com/" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
                             </a>
                         </div>
                     </div>
@@ -48,7 +48,39 @@ export default function Project(){
                             <h6 className="text-white text-justify nunito-exlight mb-4">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum hic numquam ipsam totam, saepe odio sapiente recusandae aut, atque explicabo accusantium quaerat? Animi quo dignissimos dolorem soluta tenetur quos qui rem perferendis id, consequatur, saepe mollitia deleniti? Obcaecati ullam perferendis accusantium soluta illo voluptatibus ipsa perspiciatis, animi cumque placeat nisi?
                             </h6>
-                            <a href="" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
+                            <a href="https://traveldabble.in/" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div className="row mb-5 mt-3">
+                    <div className="col-12 col-sm-6">
+                        <div className="proj-sec px-3 px-md-5 px-lg-5">
+                            <h2 className="text-white fw-bold rubik">04</h2>
+                            <h3 className="text-white nunito-black my-4">Turfello</h3>
+                            <h6 className="text-white text-justify nunito-exlight mb-4">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum hic numquam ipsam totam, saepe odio sapiente recusandae aut, atque explicabo accusantium quaerat? Animi quo dignissimos dolorem soluta tenetur quos qui rem perferendis id, consequatur, saepe mollitia deleniti? Obcaecati ullam perferendis accusantium soluta illo voluptatibus ipsa perspiciatis, animi cumque placeat nisi?
+                            </h6>
+                            <a href="https://www.turfello.com/" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div className="col-12 col-sm-6 mt-3 mt-md-0">
+                        <img src="../images/turfello.png" alt="" className="img-fluid proj-img" />
+                    </div>
+                </div>
+                <div className="row mb-5 mt-3">
+                    <div className="col-12 col-sm-6">
+                        <img src="../images/internship.png" alt="" className="img-fluid proj-img" />
+                    </div>
+                    <div className="col-12 col-sm-6 mt-3 mt-md-0">
+                        <div className="proj-sec px-3 px-md-5 px-lg-5">
+                            <h2 className="text-white fw-bold rubik">05</h2>
+                            <h3 className="text-white nunito-black my-4">Internship 4 you</h3>
+                            <h6 className="text-white text-justify nunito-exlight mb-4">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum hic numquam ipsam totam, saepe odio sapiente recusandae aut, atque explicabo accusantium quaerat? Animi quo dignissimos dolorem soluta tenetur quos qui rem perferendis id, consequatur, saepe mollitia deleniti? Obcaecati ullam perferendis accusantium soluta illo voluptatibus ipsa perspiciatis, animi cumque placeat nisi?
+                            </h6>
+                            <a href="https://internship4you.com/" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
                             </a>
                         </div>
                     </div>
