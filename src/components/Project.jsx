@@ -85,8 +85,8 @@ export default function Project(){
                         </div>
                     </div>
                 </div>
-                <div>
-                    <h5>And Counting....</h5>
+                <div class="d-flex align-items-center justify-content-center">
+                    <h5 class="text-white nunito-black">And Counting....</h5>
                 </div>
             </div>
         </section>
