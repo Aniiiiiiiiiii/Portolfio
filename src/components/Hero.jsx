@@ -10,18 +10,26 @@ export default function Hero(){
                         <h2>Based in <span className="nunito-black">India</span></h2>
 
                         <div className="social d-flex mt-4">
-                            <div className="box d-flex align-items-center justify-content-center">
-                            <i class="fa-brands fa-facebook"></i>
-                            </div>
+                            <a href="https://www.linkedin.com/in/annweshabanik1">
                             <div className="box d-flex align-items-center justify-content-center">
                             <i class="fa-brands fa-linkedin"></i>
                             </div>
+                            </a>
+                            <a href="https://www.instagram.com/_the__happy__soul____?igsh=MW1zMHgyamRqdzk5OQ==">
+                            <div className="box d-flex align-items-center justify-content-center">
+                            <i class="fa-brands fa-square-instagram"></i>
+                            </div>
+                            </a>
+                            <a href="https://www.facebook.com/share/16DeDWR8eu/">
                             <div className="box d-flex align-items-center justify-content-center">
                             <i class="fa-brands fa-facebook"></i>
                             </div>
+                            </a>
+                            <a href="https://github.com/Aniiiiiiiiiii">
                             <div className="box d-flex align-items-center justify-content-center">
-                            <i class="fa-brands fa-facebook"></i>
+                            <i class="fa-brands fa-github"></i>
                             </div>
+                            </a>
                         </div>
                     </div>
                 </div>
