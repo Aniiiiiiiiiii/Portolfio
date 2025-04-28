@@ -30,7 +30,7 @@ export default function Exp(){
         
       ];
      
-      const ExpBox = ({ head, time , role }) => {
+      const ExpBox = ({ head, time , jobDescription, role }) => {
         return (
           <div className="col-12 d-flex flex-col mb-5 justify-content-center align-items-center">
             <div className="exp-box w-100 py-3 px-4 ">
