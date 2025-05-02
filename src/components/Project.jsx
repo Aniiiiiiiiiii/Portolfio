@@ -27,7 +27,7 @@ export default function Project(){
                             <h2 className="text-white fw-bold rubik">02</h2>
                             <h3 className="text-white nunito-black my-4">Afrika Economic Summit</h3>
                             <h6 className="text-white text-justify nunito-exlight mb-4">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum hic numquam ipsam totam, saepe odio sapiente recusandae aut, atque explicabo accusantium quaerat? Animi quo dignissimos dolorem soluta tenetur quos qui rem perferendis id, consequatur, saepe mollitia deleniti? Obcaecati ullam perferendis accusantium soluta illo voluptatibus ipsa perspiciatis, animi cumque placeat nisi?
+                            Afrika Economic Summit is a dynamic event management platform built for a convocation ceremony. Users can sign up, book single or multiple seats, receive OTP verification via email, and complete payments through QR code. After payment, confirmation emails are sent automatically. The site features a secure login system, user profiles with editable personal info, and a dashboard to view booking details. Admins can manage bookings, approve payments, and control all event data through a powerful backend panel.
                             </h6>
                             <a href="https://afrikaeconomicsummit.com/" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
                             </a>
@@ -46,7 +46,7 @@ export default function Project(){
                             <h2 className="text-white fw-bold rubik">03</h2>
                             <h3 className="text-white nunito-black my-4">Travel Dabble</h3>
                             <h6 className="text-white text-justify nunito-exlight mb-4">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum hic numquam ipsam totam, saepe odio sapiente recusandae aut, atque explicabo accusantium quaerat? Animi quo dignissimos dolorem soluta tenetur quos qui rem perferendis id, consequatur, saepe mollitia deleniti? Obcaecati ullam perferendis accusantium soluta illo voluptatibus ipsa perspiciatis, animi cumque placeat nisi?
+                            Travel Dabble is a dynamic tour booking website featuring a user-friendly front end and a powerful admin panel. Users can explore and filter travel packages by category, budget, and duration, while admins can add, edit, and manage packages. The site also includes user login, contact functionality, and real-time data sorting for a seamless travel planning experience.
                             </h6>
                             <a href="https://traveldabble.in/" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
                             </a>
@@ -59,7 +59,7 @@ export default function Project(){
                             <h2 className="text-white fw-bold rubik">04</h2>
                             <h3 className="text-white nunito-black my-4">Turfello</h3>
                             <h6 className="text-white text-justify nunito-exlight mb-4">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum hic numquam ipsam totam, saepe odio sapiente recusandae aut, atque explicabo accusantium quaerat? Animi quo dignissimos dolorem soluta tenetur quos qui rem perferendis id, consequatur, saepe mollitia deleniti? Obcaecati ullam perferendis accusantium soluta illo voluptatibus ipsa perspiciatis, animi cumque placeat nisi?
+                            Turfello is a professional service-based website offering artificial turf solutions for sports and landscaping needs, including football grounds, cricket pitches, volleyball courts, and garden flooring. I developed both the front end and back end, created dedicated service pages with detailed descriptions, and showcased work images for client reference. The site also includes a contact form to enable direct user interaction and inquiries.
                             </h6>
                             <a href="https://www.turfello.com/" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
                             </a>
@@ -78,7 +78,7 @@ export default function Project(){
                             <h2 className="text-white fw-bold rubik">05</h2>
                             <h3 className="text-white nunito-black my-4">Internship 4 you</h3>
                             <h6 className="text-white text-justify nunito-exlight mb-4">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum hic numquam ipsam totam, saepe odio sapiente recusandae aut, atque explicabo accusantium quaerat? Animi quo dignissimos dolorem soluta tenetur quos qui rem perferendis id, consequatur, saepe mollitia deleniti? Obcaecati ullam perferendis accusantium soluta illo voluptatibus ipsa perspiciatis, animi cumque placeat nisi?
+                            Internship 4 You is a core PHP-based platform that connects students with internship opportunities across various fields. It features separate logins for students and colleges, allowing them to explore and apply for internships. I developed both the front end and back end, implemented dynamic data rendering for internship listings, and included contact forms for direct communication. The site also supports college collaborations to streamline student placements.
                             </h6>
                             <a href="https://internship4you.com/" target="_blank" className="mt-5"><i className="fa-solid fa-arrow-up-right-from-square" style={{ color: "#ffffff" }}></i>
                             </a>
