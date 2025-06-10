@@ -36,9 +36,9 @@ export default function Contact(){
                         friendly, and memorable interactive experiences.</h6>
                         <h3 className="mb-4 nunito-bold">banikannwesha@gmail.com | 9123325740</h3>
                         <a href="www.linkedin.com/in/annweshabanik1" target="_blank" rel="noopener noreferrer" className="me-3 mt-5"><i className="fa-brands fa-linkedin-in"></i></a>
-                        <a href="https://www.instagram.com/_the__happy__soul____" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"></i></a>
-                        <a href="https://www.facebook.com/annwesha.banik.7" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-facebook"></i></a>
-                        <a href="https://github.com/Aniiiiiiiiiii" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-square-github"></i></a>
+                        <a href="https://www.instagram.com/_the__happy__soul____" target="_blank" rel="noopener noreferrer" className="me-3 mt-5"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/annwesha.banik.7" target="_blank" rel="noopener noreferrer" className="me-3 mt-5"><i class="fa-brands fa-facebook"></i></a>
+                        <a href="https://github.com/Aniiiiiiiiiii" target="_blank" rel="noopener noreferrer" className="me-3 mt-5"><i class="fa-brands fa-square-github"></i></a>
                     </div>
                 </div>
             </div>
