@@ -34,9 +34,11 @@ export default function Contact(){
                         <h2 className="nunito-bold mb-4">Let's <span className="rubik">talk</span> for something <span className="rubik">special</span></h2>
                         <h6 className="nunito-ex-light mb-4">I seek to push the limits of creativity to create high engaging, user
                         friendly, and memorable interactive experiences.</h6>
-                        <h3 className="mb-4 nunito-bold">banikannwesha@gmail.com</h3>
-                        <a href="http://" target="_blank" rel="noopener noreferrer" className="me-3 mt-5"><i className="fa-brands fa-linkedin-in" ></i></a>
-                        <a href="http://" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"></i></a>
+                        <h3 className="mb-4 nunito-bold">banikannwesha@gmail.com | 9123325740</h3>
+                        <a href="www.linkedin.com/in/annweshabanik1" target="_blank" rel="noopener noreferrer" className="me-3 mt-5"><i className="fa-brands fa-linkedin-in"></i></a>
+                        <a href="https://www.instagram.com/_the__happy__soul____" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/annwesha.banik.7" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-facebook"></i></a>
+                        <a href="https://github.com/Aniiiiiiiiiii" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-square-github"></i></a>
                     </div>
                 </div>
             </div>
