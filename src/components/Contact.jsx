@@ -36,7 +36,7 @@ export default function Contact(){
                         friendly, and memorable interactive experiences.</h6>
                         <h3 className="mb-4 nunito-bold">banikannwesha@gmail.com</h3>
                         <a href="http://" target="_blank" rel="noopener noreferrer" className="me-3 mt-5"><i className="fa-brands fa-linkedin-in" ></i></a>
-                        <a href="http://" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-linkedin-in" ></i></a>
+                        <a href="http://" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
